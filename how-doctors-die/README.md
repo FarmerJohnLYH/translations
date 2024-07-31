@@ -1,4 +1,4 @@
-原文链接： [What’s new in Git 2.1](https://www.zocalopublicsquare.org/2011/11/30/how-doctors-die/ideas/nexus/) - [Ken Murray](http://blogs.atlassian.com/author/tpettersen/)，2011-11-30  
+原文链接： [What’s new in Git 2.1](https://www.zocalopublicsquare.org/2011/11/30/how-doctors-die/ideas/nexus/) - [Ken Murray]()，2011-11-30  
 
 
 医生是怎么死的？
